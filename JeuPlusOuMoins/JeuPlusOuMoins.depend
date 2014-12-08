@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1418033700 source:/home/alban/Documents/programmationC/JeuPlusOuMoins/JeuPlusOuMoins/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1418060199 source:/home/alban/Documents/programmationC/JeuPlusOuMoins/JeuPlusOuMoins/jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"jeu.h"
+
+1418060529 /home/alban/Documents/programmationC/JeuPlusOuMoins/JeuPlusOuMoins/jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
