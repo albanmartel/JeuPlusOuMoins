@@ -29,3 +29,6 @@ Une saisie en console au mauvais format n'est pas gérée.
 TODO
 
 Refactorer et écrire des tests-unitaires avant d'aller plus loin
+
+Exécution dans une console shell ubuntu : 
+<img src="https://raw.githubusercontent.com/albanmartel/JeuPlusOuMoins/master/JeuPlusOuMoins/screenshot.png" alt="exécution dans une consolle shell" />
