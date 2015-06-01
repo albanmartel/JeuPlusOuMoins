@@ -1,10 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <time.h>
-#include <ctype.h>
-
-#define MAX_CHAR (int)10e2
 #include "jeu.h"
 
 p_donneeJeu intialisation(p_donneeJeu donneeInit){
